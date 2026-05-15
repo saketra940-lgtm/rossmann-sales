@@ -1,10 +1,6 @@
+streamlit
 pandas
 numpy
 matplotlib
-seaborn
 scikit-learn
-mlflow
 joblib
-statsmodels
-streamlit
-tensorflow
